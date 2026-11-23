@@ -1,0 +1,190 @@
+date,home,away
+2025-09-16,PSV,Union SG
+2025-09-16,Athletic Club,Arsenal
+2025-09-16,Real Madrid,Marseille
+2025-09-16,Benfica,Qarabag
+2025-09-16,Juventus,B. Dortmund
+2025-09-16,Tottenham,Villarreal
+2025-09-17,Olympiacos,Pafos
+2025-09-17,Slavia Praha,Bodø/Glimt
+2025-09-17,Paris,Atalanta
+2025-09-17,Bayern München,Chelsea
+2025-09-17,Liverpool,Atleti
+2025-09-17,Ajax,Inter
+2025-09-18,Club Brugge,Monaco
+2025-09-18,Copenhagen,Leverkusen
+2025-09-18,Man City,Napoli
+2025-09-18,Frankfurt,Galatasaray
+2025-09-18,Sporting CP,Kairat Almaty
+2025-09-18,Newcastle,Barcelona
+2025-09-30,Atalanta,Club Brugge
+2025-09-30,Kairat Almaty,Real Madrid
+2025-09-30,Inter,Slavia Praha
+2025-09-30,Chelsea,Benfica
+2025-09-30,Atleti,Frankfurt
+2025-09-30,Bodø/Glimt,Tottenham
+2025-09-30,Marseille,Ajax
+2025-09-30,Galatasaray,Liverpool
+2025-09-30,Pafos,Bayern München
+2025-10-01,Union SG,Newcastle
+2025-10-01,Qarabag,Copenhagen
+2025-10-01,Arsenal,Olympiacos
+2025-10-01,Leverkusen,PSV
+2025-10-01,Villarreal,Juventus
+2025-10-01,Napoli,Sporting CP
+2025-10-01,Monaco,Man City
+2025-10-01,B. Dortmund,Athletic Club
+2025-10-01,Barcelona,Paris
+2025-10-21,Barcelona,Olympiacos
+2025-10-21,Kairat Almaty,Pafos
+2025-10-21,Arsenal,Atleti
+2025-10-21,Leverkusen,Paris
+2025-10-21,Villarreal,Man City
+2025-10-21,PSV,Napoli
+2025-10-21,Copenhagen,B. Dortmund
+2025-10-21,Union SG,Inter
+2025-10-21,Newcastle,Benfica
+2025-10-22,Galatasaray,Bodø/Glimt
+2025-10-22,Athletic Club,Qarabag
+2025-10-22,Chelsea,Ajax
+2025-10-22,Atalanta,Slavia Praha
+2025-10-22,Frankfurt,Liverpool
+2025-10-22,Sporting CP,Marseille
+2025-10-22,Monaco,Tottenham
+2025-10-22,Real Madrid,Juventus
+2025-10-22,Bayern München,Club Brugge
+2025-11-04,Napoli,Frankfurt
+2025-11-04,Slavia Praha,Arsenal
+2025-11-04,Paris,Bayern München
+2025-11-04,Liverpool,Real Madrid
+2025-11-04,Atleti,Union SG
+2025-11-04,Juventus,Sporting CP
+2025-11-04,Tottenham,Copenhagen
+2025-11-04,Olympiacos,PSV
+2025-11-04,Bodø/Glimt,Monaco
+2025-11-05,Qarabag,Chelsea
+2025-11-05,Pafos,Villarreal
+2025-11-05,Man City,B. Dortmund
+2025-11-05,Inter,Kairat Almaty
+2025-11-05,Benfica,Leverkusen
+2025-11-05,Club Brugge,Barcelona
+2025-11-05,Ajax,Galatasaray
+2025-11-05,Marseille,Atalanta
+2025-11-05,Newcastle,Athletic Club
+2025-11-25,Ajax,Benfica
+2025-11-25,Galatasaray,Union SG
+2025-11-25,Man City,Leverkusen
+2025-11-25,Chelsea,Barcelona
+2025-11-25,B. Dortmund,Villarreal
+2025-11-25,Napoli,Qarabag
+2025-11-25,Slavia Praha,Athletic Club
+2025-11-25,Bodø/Glimt,Juventus
+2025-11-25,Marseille,Newcastle
+2025-11-26,Copenhagen,Kairat Almaty
+2025-11-26,Pafos,Monaco
+2025-11-26,Paris,Tottenham
+2025-11-26,Liverpool,PSV
+2025-11-26,Arsenal,Bayern München
+2025-11-26,Atleti,Inter
+2025-11-26,Frankfurt,Atalanta
+2025-11-26,Sporting CP,Club Brugge
+2025-11-26,Olympiacos,Real Madrid
+2025-12-09,Kairat Almaty,Olympiacos
+2025-12-09,Bayern München,Sporting CP
+2025-12-09,Inter,Liverpool
+2025-12-09,Barcelona,Frankfurt
+2025-12-09,Atalanta,Chelsea
+2025-12-09,Tottenham,Slavia Praha
+2025-12-09,PSV,Atleti
+2025-12-09,Monaco,Galatasaray
+2025-12-09,Union SG,Marseille
+2025-12-10,Villarreal,Copenhagen
+2025-12-10,Qarabag,Ajax
+2025-12-10,B. Dortmund,Bodø/Glimt
+2025-12-10,Leverkusen,Newcastle
+2025-12-10,Benfica,Napoli
+2025-12-10,Juventus,Pafos
+2025-12-10,Club Brugge,Arsenal
+2025-12-10,Athletic Club,Paris
+2025-12-10,Real Madrid,Man City
+2026-01-20,Kairat Almaty,Club Brugge
+2026-01-20,Bodø/Glimt,Man City
+2026-01-20,Real Madrid,Monaco
+2026-01-20,Inter,Arsenal
+2026-01-20,Villarreal,Ajax
+2026-01-20,Tottenham,B. Dortmund
+2026-01-20,Sporting CP,Paris
+2026-01-20,Olympiacos,Leverkusen
+2026-01-20,Copenhagen,Napoli
+2026-01-21,Galatasaray,Atleti
+2026-01-21,Qarabag,Frankfurt
+2026-01-21,Chelsea,Pafos
+2026-01-21,Atalanta,Athletic Club
+2026-01-21,Juventus,Benfica
+2026-01-21,Slavia Praha,Barcelona
+2026-01-21,Marseille,Liverpool
+2026-01-21,Newcastle,PSV
+2026-01-21,Bayern München,Union SG
+2026-01-28,Paris,Newcastle
+2026-01-28,Man City,Galatasaray
+2026-01-28,Liverpool,Qarabag
+2026-01-28,B. Dortmund,Inter
+2026-01-28,Barcelona,Copenhagen
+2026-01-28,Arsenal,Kairat Almaty
+2026-01-28,Leverkusen,Villarreal
+2026-01-28,Atleti,Bodø/Glimt
+2026-01-28,Benfica,Real Madrid
+2026-01-28,Frankfurt,Tottenham
+2026-01-28,Club Brugge,Marseille
+2026-01-28,PSV,Bayern München
+2026-01-28,Ajax,Olympiacos
+2026-01-28,Napoli,Chelsea
+2026-01-28,Monaco,Juventus
+2026-01-28,Union SG,Atalanta
+2026-01-28,Athletic Club,Sporting CP
+2026-01-28,Pafos,Slavia Praha
+2026-02-17,Galatasaray,Juventus
+2026-02-17,Monaco,Paris
+2026-02-17,Benfica,Real Madrid
+2026-02-17,B. Dortmund,Atalanta
+2026-02-18,Qarabag,Newcastle
+2026-02-18,Olympiacos,Leverkusen
+2026-02-18,Bodø/Glimt,Inter
+2026-02-18,Club Brugge,Atleti
+2026-02-24,Atleti,Club Brugge
+2026-02-24,Leverkusen,Olympiacos
+2026-02-24,Inter,Bodø/Glimt
+2026-02-24,Newcastle,Qarabag
+2026-02-25,Atalanta,B. Dortmund
+2026-02-25,Paris,Monaco
+2026-02-25,Juventus,Galatasaray
+2026-02-25,Real Madrid,Benfica
+2026-03-10,Galatasaray,Liverpool
+2026-03-10,Atalanta,Bayern München
+2026-03-10,Newcastle,Barcelona
+2026-03-10,Atleti,Tottenham
+2026-03-11,Leverkusen,Arsenal
+2026-03-11,Paris,Chelsea
+2026-03-11,Real Madrid,Man City
+2026-03-11,Bodø/Glimt,Sporting CP
+2026-03-17,Sporting CP,Bodø/Glimt
+2026-03-17,Chelsea,Paris
+2026-03-17,Man City,Real Madrid
+2026-03-17,Arsenal,Leverkusen
+2026-03-18,Barcelona,Newcastle
+2026-03-18,Liverpool,Galatasaray
+2026-03-18,Bayern München,Atalanta
+2026-03-18,Tottenham,Atleti
+2026-04-07,Real Madrid,Bayern München
+2026-04-07,Sporting CP,Arsenal
+2026-04-08,Paris,Liverpool
+2026-04-08,Barcelona,Atleti
+2026-04-14,Atleti,Barcelona
+2026-04-14,Liverpool,Paris
+2026-04-15,Arsenal,Sporting CP
+2026-04-15,Bayern München,Real Madrid
+2026-04-28,Paris,Bayern München
+2026-04-29,Atleti,Arsenal
+2026-05-05,Arsenal,Atleti
+2026-05-06,Bayern München,Paris
+2026-05-30,Paris,Arsenal

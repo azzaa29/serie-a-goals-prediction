@@ -1,0 +1,190 @@
+date,home,away
+2025-09-24,PAOK,M. Tel-Aviv
+2025-09-24,Midtjylland,Sturm Graz
+2025-09-24,GNK Dinamo,Fenerbahçe
+2025-09-24,Real Betis,Nott'm Forest
+2025-09-24,Braga,Feyenoord
+2025-09-24,Crvena Zvezda,Celtic
+2025-09-24,Freiburg,Basel
+2025-09-24,Nice,Roma
+2025-09-24,Malmö,Ludogorets
+2025-09-25,Lille,Brann
+2025-09-25,Go Ahead Eagles,FCSB
+2025-09-25,Rangers,Genk
+2025-09-25,Salzburg,Porto
+2025-09-25,Aston Villa,Bologna
+2025-09-25,Ferencváros,Viktoria Plzen
+2025-09-25,Young Boys,Panathinaikos
+2025-09-25,Stuttgart,Celta
+2025-09-25,Utrecht,Lyon
+2025-10-02,Roma,Lille
+2025-10-02,Fenerbahçe,Nice
+2025-10-02,Viktoria Plzen,Malmö
+2025-10-02,Celtic,Braga
+2025-10-02,Ludogorets,Real Betis
+2025-10-02,FCSB,Young Boys
+2025-10-02,Bologna,Freiburg
+2025-10-02,Panathinaikos,Go Ahead Eagles
+2025-10-02,Brann,Utrecht
+2025-10-02,Porto,Crvena Zvezda
+2025-10-02,Feyenoord,Aston Villa
+2025-10-02,Lyon,Salzburg
+2025-10-02,M. Tel-Aviv,GNK Dinamo
+2025-10-02,Basel,Stuttgart
+2025-10-02,Nott'm Forest,Midtjylland
+2025-10-02,Sturm Graz,Rangers
+2025-10-02,Celta,PAOK
+2025-10-02,Genk,Ferencváros
+2025-10-23,Salzburg,Ferencváros
+2025-10-23,Fenerbahçe,Stuttgart
+2025-10-23,Braga,Crvena Zvezda
+2025-10-23,Lyon,Basel
+2025-10-23,FCSB,Bologna
+2025-10-23,Go Ahead Eagles,Aston Villa
+2025-10-23,Genk,Real Betis
+2025-10-23,Brann,Rangers
+2025-10-23,Feyenoord,Panathinaikos
+2025-10-23,Roma,Viktoria Plzen
+2025-10-23,Lille,PAOK
+2025-10-23,Celtic,Sturm Graz
+2025-10-23,M. Tel-Aviv,Midtjylland
+2025-10-23,Young Boys,Ludogorets
+2025-10-23,Freiburg,Utrecht
+2025-10-23,Nott'm Forest,Porto
+2025-10-23,Celta,Nice
+2025-10-23,Malmö,GNK Dinamo
+2025-11-06,GNK Dinamo,Celta
+2025-11-06,Salzburg,Go Ahead Eagles
+2025-11-06,Crvena Zvezda,Lille
+2025-11-06,Basel,FCSB
+2025-11-06,Midtjylland,Celtic
+2025-11-06,Sturm Graz,Nott'm Forest
+2025-11-06,Nice,Freiburg
+2025-11-06,Malmö,Panathinaikos
+2025-11-06,Utrecht,Porto
+2025-11-06,Rangers,Roma
+2025-11-06,Real Betis,Lyon
+2025-11-06,Aston Villa,M. Tel-Aviv
+2025-11-06,Braga,Genk
+2025-11-06,PAOK,Young Boys
+2025-11-06,Viktoria Plzen,Fenerbahçe
+2025-11-06,Ferencváros,Ludogorets
+2025-11-06,Bologna,Brann
+2025-11-06,Stuttgart,Feyenoord
+2025-11-27,Roma,Midtjylland
+2025-11-27,Porto,Nice
+2025-11-27,Feyenoord,Celtic
+2025-11-27,Lille,GNK Dinamo
+2025-11-27,Aston Villa,Young Boys
+2025-11-27,Fenerbahçe,Ferencváros
+2025-11-27,PAOK,Brann
+2025-11-27,Viktoria Plzen,Freiburg
+2025-11-27,Ludogorets,Celta
+2025-11-27,Rangers,Braga
+2025-11-27,Real Betis,Utrecht
+2025-11-27,Crvena Zvezda,FCSB
+2025-11-27,M. Tel-Aviv,Lyon
+2025-11-27,Nott'm Forest,Malmö
+2025-11-27,Bologna,Salzburg
+2025-11-27,Panathinaikos,Sturm Graz
+2025-11-27,Go Ahead Eagles,Stuttgart
+2025-11-27,Genk,Basel
+2025-12-11,GNK Dinamo,Real Betis
+2025-12-11,Ferencváros,Rangers
+2025-12-11,Young Boys,Lille
+2025-12-11,Midtjylland,Genk
+2025-12-11,Ludogorets,PAOK
+2025-12-11,Sturm Graz,Crvena Zvezda
+2025-12-11,Nice,Braga
+2025-12-11,Stuttgart,M. Tel-Aviv
+2025-12-11,Utrecht,Nott'm Forest
+2025-12-11,Porto,Malmö
+2025-12-11,Lyon,Go Ahead Eagles
+2025-12-11,Celtic,Roma
+2025-12-11,Basel,Aston Villa
+2025-12-11,Freiburg,Salzburg
+2025-12-11,FCSB,Feyenoord
+2025-12-11,Celta,Bologna
+2025-12-11,Panathinaikos,Viktoria Plzen
+2025-12-11,Brann,Fenerbahçe
+2026-01-22,Feyenoord,Sturm Graz
+2026-01-22,Fenerbahçe,Aston Villa
+2026-01-22,PAOK,Real Betis
+2026-01-22,Viktoria Plzen,Porto
+2026-01-22,Young Boys,Lyon
+2026-01-22,Freiburg,M. Tel-Aviv
+2026-01-22,Bologna,Celtic
+2026-01-22,Malmö,Crvena Zvezda
+2026-01-22,Brann,Midtjylland
+2026-01-22,Roma,Stuttgart
+2026-01-22,Rangers,Ludogorets
+2026-01-22,GNK Dinamo,FCSB
+2026-01-22,Salzburg,Basel
+2026-01-22,Braga,Nott'm Forest
+2026-01-22,Ferencváros,Panathinaikos
+2026-01-22,Nice,Go Ahead Eagles
+2026-01-22,Celta,Lille
+2026-01-22,Utrecht,Genk
+2026-01-29,Porto,Rangers
+2026-01-29,Lille,Freiburg
+2026-01-29,Real Betis,Feyenoord
+2026-01-29,Aston Villa,Salzburg
+2026-01-29,Crvena Zvezda,Celta
+2026-01-29,Lyon,PAOK
+2026-01-29,Celtic,Utrecht
+2026-01-29,M. Tel-Aviv,Bologna
+2026-01-29,Basel,Viktoria Plzen
+2026-01-29,Midtjylland,GNK Dinamo
+2026-01-29,Ludogorets,Nice
+2026-01-29,Nott'm Forest,Ferencváros
+2026-01-29,Sturm Graz,Brann
+2026-01-29,FCSB,Fenerbahçe
+2026-01-29,Stuttgart,Young Boys
+2026-01-29,Panathinaikos,Roma
+2026-01-29,Go Ahead Eagles,Braga
+2026-01-29,Genk,Malmö
+2026-02-19,GNK Dinamo,Genk
+2026-02-19,PAOK,Celta
+2026-02-19,Brann,Bologna
+2026-02-19,Fenerbahçe,Nott'm Forest
+2026-02-19,Ludogorets,Ferencváros
+2026-02-19,Panathinaikos,Viktoria Plzen
+2026-02-19,Lille,Crvena Zvezda
+2026-02-19,Celtic,Stuttgart
+2026-02-26,Ferencváros,Ludogorets
+2026-02-26,Viktoria Plzen,Panathinaikos
+2026-02-26,Crvena Zvezda,Lille
+2026-02-26,Stuttgart,Celtic
+2026-02-26,Genk,GNK Dinamo
+2026-02-26,Celta,PAOK
+2026-02-26,Bologna,Brann
+2026-02-26,Nott'm Forest,Fenerbahçe
+2026-03-12,Panathinaikos,Real Betis
+2026-03-12,Stuttgart,Porto
+2026-03-12,Bologna,Roma
+2026-03-12,Lille,Aston Villa
+2026-03-12,Ferencváros,Braga
+2026-03-12,Genk,Freiburg
+2026-03-12,Celta,Lyon
+2026-03-12,Nott'm Forest,Midtjylland
+2026-03-18,Braga,Ferencváros
+2026-03-19,Freiburg,Genk
+2026-03-19,Lyon,Celta
+2026-03-19,Midtjylland,Nott'm Forest
+2026-03-19,Real Betis,Panathinaikos
+2026-03-19,Porto,Stuttgart
+2026-03-19,Roma,Bologna
+2026-03-19,Aston Villa,Lille
+2026-04-08,Braga,Real Betis
+2026-04-09,Freiburg,Celta
+2026-04-09,Porto,Nott'm Forest
+2026-04-09,Bologna,Aston Villa
+2026-04-16,Celta,Freiburg
+2026-04-16,Real Betis,Braga
+2026-04-16,Nott'm Forest,Porto
+2026-04-16,Aston Villa,Bologna
+2026-04-30,Braga,Freiburg
+2026-04-30,Nott'm Forest,Aston Villa
+2026-05-07,Freiburg,Braga
+2026-05-07,Aston Villa,Nott'm Forest
+2026-05-20,Freiburg,Aston Villa

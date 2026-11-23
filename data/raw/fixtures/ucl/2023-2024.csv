@@ -1,0 +1,126 @@
+date,home,away
+2023-09-19,Milan,Newcastle
+2023-09-19,Young Boys,Leipzig
+2023-09-19,Feyenoord,Celtic
+2023-09-19,Lazio,Atlético de Madrid
+2023-09-19,Paris,Dortmund
+2023-09-19,Man City,Crvena zvezda
+2023-09-19,Barcelona,Antwerp
+2023-09-19,Shakhtar Donetsk,FC Porto
+2023-09-20,Galatasaray,Copenhagen
+2023-09-20,Real Madrid,Union Berlin
+2023-09-20,Bayern,Man United
+2023-09-20,Sevilla,Lens
+2023-09-20,Arsenal,PSV
+2023-09-20,Braga,Napoli
+2023-09-20,Real Sociedad,Inter
+2023-09-20,Benfica,Salzburg
+2023-10-03,Union Berlin,Braga
+2023-10-03,Salzburg,Real Sociedad
+2023-10-03,Man United,Galatasaray
+2023-10-03,Copenhagen,Bayern
+2023-10-03,Lens,Arsenal
+2023-10-03,PSV,Sevilla
+2023-10-03,Napoli,Real Madrid
+2023-10-03,Inter,Benfica
+2023-10-04,Atlético de Madrid,Feyenoord
+2023-10-04,Antwerp,Shakhtar Donetsk
+2023-10-04,Celtic,Lazio
+2023-10-04,Dortmund,Milan
+2023-10-04,Newcastle,Paris
+2023-10-04,Leipzig,Man City
+2023-10-04,Crvena zvezda,Young Boys
+2023-10-04,FC Porto,Barcelona
+2023-10-24,Galatasaray,Bayern
+2023-10-24,Inter,Salzburg
+2023-10-24,Man United,Copenhagen
+2023-10-24,Sevilla,Arsenal
+2023-10-24,Lens,PSV
+2023-10-24,Braga,Real Madrid
+2023-10-24,Union Berlin,Napoli
+2023-10-24,Benfica,Real Sociedad
+2023-10-25,Feyenoord,Lazio
+2023-10-25,Barcelona,Shakhtar Donetsk
+2023-10-25,Celtic,Atlético de Madrid
+2023-10-25,Paris,Milan
+2023-10-25,Newcastle,Dortmund
+2023-10-25,Leipzig,Crvena zvezda
+2023-10-25,Young Boys,Man City
+2023-10-25,Antwerp,FC Porto
+2023-11-07,Dortmund,Newcastle
+2023-11-07,Shakhtar Donetsk,Barcelona
+2023-11-07,Atlético de Madrid,Celtic
+2023-11-07,Lazio,Feyenoord
+2023-11-07,Milan,Paris
+2023-11-07,Man City,Young Boys
+2023-11-07,Crvena zvezda,Leipzig
+2023-11-07,FC Porto,Antwerp
+2023-11-08,Napoli,Union Berlin
+2023-11-08,Real Sociedad,Benfica
+2023-11-08,Bayern,Galatasaray
+2023-11-08,Copenhagen,Man United
+2023-11-08,Arsenal,Sevilla
+2023-11-08,PSV,Lens
+2023-11-08,Real Madrid,Braga
+2023-11-08,Salzburg,Inter
+2023-11-28,Lazio,Celtic
+2023-11-28,Shakhtar Donetsk,Antwerp
+2023-11-28,Feyenoord,Atlético de Madrid
+2023-11-28,Paris,Newcastle
+2023-11-28,Milan,Dortmund
+2023-11-28,Man City,Leipzig
+2023-11-28,Young Boys,Crvena zvezda
+2023-11-28,Barcelona,FC Porto
+2023-11-29,Galatasaray,Man United
+2023-11-29,Sevilla,PSV
+2023-11-29,Bayern,Copenhagen
+2023-11-29,Arsenal,Lens
+2023-11-29,Real Madrid,Napoli
+2023-11-29,Braga,Union Berlin
+2023-11-29,Benfica,Inter
+2023-11-29,Real Sociedad,Salzburg
+2023-12-12,Lens,Sevilla
+2023-12-12,PSV,Arsenal
+2023-12-12,Man United,Bayern
+2023-12-12,Copenhagen,Galatasaray
+2023-12-12,Napoli,Braga
+2023-12-12,Union Berlin,Real Madrid
+2023-12-12,Inter,Real Sociedad
+2023-12-12,Salzburg,Benfica
+2023-12-13,Leipzig,Young Boys
+2023-12-13,Crvena zvezda,Man City
+2023-12-13,Atlético de Madrid,Lazio
+2023-12-13,Celtic,Feyenoord
+2023-12-13,Dortmund,Paris
+2023-12-13,Newcastle,Milan
+2023-12-13,FC Porto,Shakhtar Donetsk
+2023-12-13,Antwerp,Barcelona
+2024-02-13,Leipzig,Real Madrid
+2024-02-13,Copenhagen,Man City
+2024-02-14,Lazio,Bayern
+2024-02-14,Paris,Real Sociedad
+2024-02-20,Inter,Atlético de Madrid
+2024-02-20,PSV,Dortmund
+2024-02-21,FC Porto,Arsenal
+2024-02-21,Napoli,Barcelona
+2024-03-05,Bayern,Lazio
+2024-03-05,Real Sociedad,Paris
+2024-03-06,Real Madrid,Leipzig
+2024-03-06,Man City,Copenhagen
+2024-03-12,Arsenal,FC Porto
+2024-03-12,Barcelona,Napoli
+2024-03-13,Atlético de Madrid,Inter
+2024-03-13,Dortmund,PSV
+2024-04-09,Arsenal,Bayern
+2024-04-09,Real Madrid,Man City
+2024-04-10,Atlético de Madrid,Dortmund
+2024-04-10,Paris,Barcelona
+2024-04-16,Barcelona,Paris
+2024-04-16,Dortmund,Atlético de Madrid
+2024-04-17,Man City,Real Madrid
+2024-04-17,Bayern,Arsenal
+2024-04-30,Bayern,Real Madrid
+2024-05-01,Dortmund,Paris
+2024-05-07,Paris,Dortmund
+2024-05-08,Real Madrid,Bayern
+2024-06-01,Dortmund,Real Madrid

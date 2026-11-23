@@ -1,0 +1,142 @@
+date,home,away
+2023-09-21,Union SG,Toulouse
+2023-09-21,LASK,Liverpool
+2023-09-21,Rennes,Maccabi Haifa
+2023-09-21,Panathinaikos,Villarreal
+2023-09-21,Servette,Slavia Praha
+2023-09-21,Sheriff,Roma
+2023-09-21,Leverkusen,Häcken
+2023-09-21,Qarabag,Molde
+2023-09-21,West Ham,TSC
+2023-09-21,Olympiacos,Freiburg
+2023-09-21,Ajax,Marseille
+2023-09-21,Brighton,AEK Athens
+2023-09-21,Sparta Praha,Aris Limassol
+2023-09-21,Rangers,Real Betis
+2023-09-21,Atalanta,Raków
+2023-09-21,Sturm Graz,Sporting CP
+2023-10-05,Freiburg,West Ham
+2023-10-05,TSC,Olympiacos
+2023-10-05,Marseille,Brighton
+2023-10-05,AEK Athens,Ajax
+2023-10-05,Real Betis,Sparta Praha
+2023-10-05,Aris Limassol,Rangers
+2023-10-05,Sporting CP,Atalanta
+2023-10-05,Raków,Sturm Graz
+2023-10-05,Liverpool,Union SG
+2023-10-05,Toulouse,LASK
+2023-10-05,Villarreal,Rennes
+2023-10-05,Maccabi Haifa,Panathinaikos
+2023-10-05,Roma,Servette
+2023-10-05,Slavia Praha,Sheriff
+2023-10-05,Molde,Leverkusen
+2023-10-05,Häcken,Qarabag
+2023-10-26,Olympiacos,West Ham
+2023-10-26,TSC,Freiburg
+2023-10-26,Marseille,AEK Athens
+2023-10-26,Sparta Praha,Rangers
+2023-10-26,Aris Limassol,Real Betis
+2023-10-26,Sturm Graz,Atalanta
+2023-10-26,Raków,Sporting CP
+2023-10-26,Molde,Häcken
+2023-10-26,Brighton,Ajax
+2023-10-26,Union SG,LASK
+2023-10-26,Liverpool,Toulouse
+2023-10-26,Panathinaikos,Rennes
+2023-10-26,Roma,Slavia Praha
+2023-10-26,Sheriff,Servette
+2023-10-26,Leverkusen,Qarabag
+2023-12-06,Villarreal,Maccabi Haifa
+2023-11-09,Ajax,Brighton
+2023-11-09,LASK,Union SG
+2023-11-09,Toulouse,Liverpool
+2023-11-09,Rennes,Panathinaikos
+2023-11-09,Maccabi Haifa,Villarreal
+2023-11-09,Servette,Sheriff
+2023-11-09,Slavia Praha,Roma
+2023-11-09,Qarabag,Leverkusen
+2023-11-09,Freiburg,TSC
+2023-11-09,West Ham,Olympiacos
+2023-11-09,AEK Athens,Marseille
+2023-11-09,Real Betis,Aris Limassol
+2023-11-09,Rangers,Sparta Praha
+2023-11-09,Atalanta,Sturm Graz
+2023-11-09,Sporting CP,Raków
+2023-11-09,Häcken,Molde
+2023-11-30,Freiburg,Olympiacos
+2023-11-30,TSC,West Ham
+2023-11-30,AEK Athens,Brighton
+2023-11-30,Sparta Praha,Real Betis
+2023-11-30,Atalanta,Sporting CP
+2023-11-30,Sturm Graz,Raków
+2023-11-30,Maccabi Haifa,Rennes
+2023-11-30,Marseille,Ajax
+2023-11-30,Rangers,Aris Limassol
+2023-11-30,Liverpool,LASK
+2023-11-30,Toulouse,Union SG
+2023-11-30,Villarreal,Panathinaikos
+2023-11-30,Servette,Roma
+2023-11-30,Sheriff,Slavia Praha
+2023-11-30,Molde,Qarabag
+2023-11-30,Häcken,Leverkusen
+2023-12-14,Union SG,Liverpool
+2023-12-14,LASK,Toulouse
+2023-12-14,Rennes,Villarreal
+2023-12-14,Panathinaikos,Maccabi Haifa
+2023-12-14,Roma,Sheriff
+2023-12-14,Slavia Praha,Servette
+2023-12-14,Leverkusen,Molde
+2023-12-14,Qarabag,Häcken
+2023-12-14,West Ham,Freiburg
+2023-12-14,Olympiacos,TSC
+2023-12-14,Ajax,AEK Athens
+2023-12-14,Brighton,Marseille
+2023-12-14,Real Betis,Rangers
+2023-12-14,Aris Limassol,Sparta Praha
+2023-12-14,Sporting CP,Sturm Graz
+2023-12-14,Raków,Atalanta
+2024-02-15,Feyenoord,Roma
+2024-02-15,Galatasaray,Sparta Praha
+2024-02-15,Shakhtar Donetsk,Marseille
+2024-02-15,Young Boys,Sporting CP
+2024-02-15,Benfica,Toulouse
+2024-02-15,Milan,Rennes
+2024-02-15,Lens,Freiburg
+2024-02-15,Braga,Qarabag
+2024-02-22,Toulouse,Benfica
+2024-02-22,Rennes,Milan
+2024-02-22,Freiburg,Lens
+2024-02-22,Qarabag,Braga
+2024-02-22,Roma,Feyenoord
+2024-02-22,Sparta Praha,Galatasaray
+2024-02-22,Marseille,Shakhtar Donetsk
+2024-02-22,Sporting CP,Young Boys
+2024-03-06,Sporting CP,Atalanta
+2024-03-07,Sparta Praha,Liverpool
+2024-03-07,Roma,Brighton
+2024-03-07,Qarabag,Leverkusen
+2024-03-07,Marseille,Villarreal
+2024-03-07,Benfica,Rangers
+2024-03-07,Freiburg,West Ham
+2024-03-07,Milan,Slavia Praha
+2024-03-14,Villarreal,Marseille
+2024-03-14,Rangers,Benfica
+2024-03-14,West Ham,Freiburg
+2024-03-14,Slavia Praha,Milan
+2024-03-14,Liverpool,Sparta Praha
+2024-03-14,Brighton,Roma
+2024-03-14,Atalanta,Sporting CP
+2024-03-14,Leverkusen,Qarabag
+2024-04-11,Milan,Roma
+2024-04-11,Liverpool,Atalanta
+2024-04-11,Leverkusen,West Ham
+2024-04-11,Benfica,Marseille
+2024-04-18,Roma,Milan
+2024-04-18,Atalanta,Liverpool
+2024-04-18,West Ham,Leverkusen
+2024-04-18,Marseille,Benfica
+2024-05-02,Marseille,Atalanta
+2024-05-02,Roma,Leverkusen
+2024-05-09,Atalanta,Marseille
+2024-05-09,Leverkusen,Roma
+2024-05-22,Atalanta,Leverkusen

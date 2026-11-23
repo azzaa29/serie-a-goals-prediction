@@ -1,0 +1,190 @@
+date,home,away
+2024-09-25,AZ Alkmaar,Elfsborg
+2024-09-25,Bodø/Glimt,Porto
+2024-09-25,Man Utd,Twente
+2024-09-25,Galatasaray,PAOK
+2024-09-25,Dynamo Kyiv,Lazio
+2024-09-25,Ludogorets,Slavia Praha
+2024-09-25,Midtjylland,Hoffenheim
+2024-09-25,Nice,Real Sociedad
+2024-09-25,Anderlecht,Ferencváros
+2024-09-26,Fenerbahçe,Union SG
+2024-09-26,Malmö,Rangers
+2024-09-26,Roma,Athletic Club
+2024-09-26,Ajax,Besiktas
+2024-09-26,Frankfurt,Viktoria Plzen
+2024-09-26,Braga,M. Tel-Aviv
+2024-09-26,Lyon,Olympiacos
+2024-09-26,FCSB,RFS
+2024-09-26,Tottenham,Qarabag
+2024-10-03,Lazio,Nice
+2024-10-03,Slavia Praha,Ajax
+2024-10-03,Real Sociedad,Anderlecht
+2024-10-03,Olympiacos,Braga
+2024-10-03,M. Tel-Aviv,Midtjylland
+2024-10-03,Ferencváros,Tottenham
+2024-10-03,Qarabag,Malmö
+2024-10-03,Hoffenheim,Dynamo Kyiv
+2024-10-03,RFS,Galatasaray
+2024-10-03,Porto,Man Utd
+2024-10-03,Rangers,Lyon
+2024-10-03,PAOK,FCSB
+2024-10-03,Viktoria Plzen,Ludogorets
+2024-10-03,Union SG,Bodø/Glimt
+2024-10-03,Athletic Club,AZ Alkmaar
+2024-10-03,Twente,Fenerbahçe
+2024-10-03,Besiktas,Frankfurt
+2024-10-03,Elfsborg,Roma
+2024-10-23,Braga,Bodø/Glimt
+2024-10-23,Galatasaray,Elfsborg
+2024-10-24,Roma,Dynamo Kyiv
+2024-10-24,Frankfurt,RFS
+2024-10-24,PAOK,Viktoria Plzen
+2024-10-24,M. Tel-Aviv,Real Sociedad
+2024-10-24,Ferencváros,Nice
+2024-10-24,Qarabag,Ajax
+2024-10-24,Midtjylland,Union SG
+2024-10-24,Porto,Hoffenheim
+2024-10-24,Rangers,FCSB
+2024-10-24,Tottenham,AZ Alkmaar
+2024-10-24,Lyon,Besiktas
+2024-10-24,Fenerbahçe,Man Utd
+2024-10-24,Malmö,Olympiacos
+2024-10-24,Athletic Club,Slavia Praha
+2024-10-24,Anderlecht,Ludogorets
+2024-10-24,Twente,Lazio
+2024-11-06,Besiktas,Malmö
+2024-11-07,Frankfurt,Slavia Praha
+2024-11-07,Olympiacos,Rangers
+2024-11-07,Galatasaray,Tottenham
+2024-11-07,Bodø/Glimt,Qarabag
+2024-11-07,Union SG,Roma
+2024-11-07,Ludogorets,Athletic Club
+2024-11-07,Nice,Twente
+2024-11-07,FCSB,Midtjylland
+2024-11-07,Elfsborg,Braga
+2024-11-07,Man Utd,PAOK
+2024-11-07,Ajax,M. Tel-Aviv
+2024-11-07,Lazio,Porto
+2024-11-07,AZ Alkmaar,Fenerbahçe
+2024-11-07,Viktoria Plzen,Real Sociedad
+2024-11-07,Dynamo Kyiv,Ferencváros
+2024-11-07,Hoffenheim,Lyon
+2024-11-07,RFS,Anderlecht
+2024-11-28,Lazio,Ludogorets
+2024-11-28,AZ Alkmaar,Galatasaray
+2024-11-28,Qarabag,Lyon
+2024-11-28,Dynamo Kyiv,Viktoria Plzen
+2024-11-28,Athletic Club,Elfsborg
+2024-11-28,Anderlecht,Porto
+2024-11-28,Besiktas,M. Tel-Aviv
+2024-11-28,RFS,PAOK
+2024-11-28,Man Utd,Bodø/Glimt
+2024-11-28,Tottenham,Roma
+2024-11-28,Slavia Praha,Fenerbahçe
+2024-11-28,Real Sociedad,Ajax
+2024-11-28,Braga,Hoffenheim
+2024-11-28,Ferencváros,Malmö
+2024-11-28,Midtjylland,Frankfurt
+2024-11-28,Nice,Rangers
+2024-11-28,Twente,Union SG
+2024-11-28,FCSB,Olympiacos
+2024-12-11,Fenerbahçe,Athletic Club
+2024-12-12,Roma,Braga
+2024-12-12,Olympiacos,Twente
+2024-12-12,PAOK,Ferencváros
+2024-12-12,Viktoria Plzen,Man Utd
+2024-12-12,Union SG,Nice
+2024-12-12,Ludogorets,AZ Alkmaar
+2024-12-12,Malmö,Galatasaray
+2024-12-12,Hoffenheim,FCSB
+2024-12-12,Porto,Midtjylland
+2024-12-12,Ajax,Lazio
+2024-12-12,Rangers,Tottenham
+2024-12-12,Slavia Praha,Anderlecht
+2024-12-12,Real Sociedad,Dynamo Kyiv
+2024-12-12,Lyon,Frankfurt
+2024-12-12,M. Tel-Aviv,RFS
+2024-12-12,Bodø/Glimt,Besiktas
+2024-12-12,Elfsborg,Qarabag
+2025-01-21,Galatasaray,Dynamo Kyiv
+2025-01-22,Besiktas,Athletic Club
+2025-01-23,Porto,Olympiacos
+2025-01-23,AZ Alkmaar,Roma
+2025-01-23,Fenerbahçe,Lyon
+2025-01-23,Qarabag,FCSB
+2025-01-23,Viktoria Plzen,Anderlecht
+2025-01-23,Bodø/Glimt,M. Tel-Aviv
+2025-01-23,Malmö,Twente
+2025-01-23,Hoffenheim,Tottenham
+2025-01-23,Man Utd,Rangers
+2025-01-23,Frankfurt,Ferencváros
+2025-01-23,Lazio,Real Sociedad
+2025-01-23,PAOK,Slavia Praha
+2025-01-23,Union SG,Braga
+2025-01-23,Ludogorets,Midtjylland
+2025-01-23,RFS,Ajax
+2025-01-23,Elfsborg,Nice
+2025-01-30,Roma,Frankfurt
+2025-01-30,Ajax,Galatasaray
+2025-01-30,Rangers,Union SG
+2025-01-30,Tottenham,Elfsborg
+2025-01-30,Slavia Praha,Malmö
+2025-01-30,Real Sociedad,PAOK
+2025-01-30,Braga,Lazio
+2025-01-30,Olympiacos,Qarabag
+2025-01-30,Lyon,Ludogorets
+2025-01-30,M. Tel-Aviv,Porto
+2025-01-30,Ferencváros,AZ Alkmaar
+2025-01-30,Dynamo Kyiv,RFS
+2025-01-30,Midtjylland,Fenerbahçe
+2025-01-30,Athletic Club,Viktoria Plzen
+2025-01-30,Nice,Bodø/Glimt
+2025-01-30,Anderlecht,Hoffenheim
+2025-01-30,Twente,Besiktas
+2025-01-30,FCSB,Man Utd
+2025-02-13,Ferencváros,Viktoria Plzen
+2025-02-13,Union SG,Ajax
+2025-02-13,Midtjylland,Real Sociedad
+2025-02-13,Fenerbahçe,Anderlecht
+2025-02-13,Twente,Bodø/Glimt
+2025-02-13,AZ Alkmaar,Galatasaray
+2025-02-13,PAOK,FCSB
+2025-02-13,Porto,Roma
+2025-02-20,Bodø/Glimt,Twente
+2025-02-20,Galatasaray,AZ Alkmaar
+2025-02-20,FCSB,PAOK
+2025-02-20,Roma,Porto
+2025-02-20,Viktoria Plzen,Ferencváros
+2025-02-20,Ajax,Union SG
+2025-02-20,Real Sociedad,Midtjylland
+2025-02-20,Anderlecht,Fenerbahçe
+2025-03-06,AZ Alkmaar,Tottenham
+2025-03-06,Real Sociedad,Man Utd
+2025-03-06,FCSB,Lyon
+2025-03-06,Fenerbahçe,Rangers
+2025-03-06,Viktoria Plzen,Lazio
+2025-03-06,Bodø/Glimt,Olympiacos
+2025-03-06,Ajax,Frankfurt
+2025-03-06,Roma,Athletic Club
+2025-03-13,Lazio,Viktoria Plzen
+2025-03-13,Olympiacos,Bodø/Glimt
+2025-03-13,Frankfurt,Ajax
+2025-03-13,Athletic Club,Roma
+2025-03-13,Tottenham,AZ Alkmaar
+2025-03-13,Man Utd,Real Sociedad
+2025-03-13,Lyon,FCSB
+2025-03-13,Rangers,Fenerbahçe
+2025-04-10,Bodø/Glimt,Lazio
+2025-04-10,Tottenham,Frankfurt
+2025-04-10,Lyon,Man Utd
+2025-04-10,Rangers,Athletic Club
+2025-04-17,Lazio,Bodø/Glimt
+2025-04-17,Frankfurt,Tottenham
+2025-04-17,Man Utd,Lyon
+2025-04-17,Athletic Club,Rangers
+2025-05-01,Tottenham,Bodø/Glimt
+2025-05-01,Athletic Club,Man Utd
+2025-05-08,Bodø/Glimt,Tottenham
+2025-05-08,Man Utd,Athletic Club
+2025-05-21,Tottenham,Man Utd

@@ -1,0 +1,206 @@
+date,home,away
+2020-10-22,CSKA-Sofia,CFR Cluj
+2020-10-22,Young Boys,Roma
+2020-10-22,Dundalk,Molde
+2020-10-22,Rapid Wien,Arsenal
+2020-10-22,Leverkusen,Nice
+2020-10-22,H. Beer-Sheva,Slavia Praha
+2020-10-22,Standard Liège,Rangers
+2020-10-22,Lech,Benfica
+2020-10-22,PSV,Granada
+2020-10-22,PAOK,Omonoia
+2020-10-22,Napoli,AZ Alkmaar
+2020-10-22,Rijeka,Real Sociedad
+2020-10-22,Braga,AEK
+2020-10-22,Leicester,Zorya Luhansk
+2020-10-22,Sparta Praha,LOSC
+2020-10-22,Celtic,Milan
+2020-10-22,M. Tel-Aviv,Qarabag
+2020-10-22,Villarreal,Sivasspor
+2020-10-22,Tottenham,LASK
+2020-10-22,Ludogorets,Antwerp
+2020-10-22,Wolfsberg,CSKA Moskva
+2020-10-22,Dinamo Zagreb,Feyenoord
+2020-10-22,Liberec,Gent
+2020-10-22,Hoffenheim,Crvena zvezda
+2020-10-29,Zorya Luhansk,Braga
+2020-10-29,AEK,Leicester
+2020-10-29,Milan,Sparta Praha
+2020-10-29,LOSC,Celtic
+2020-10-29,Sivasspor,M. Tel-Aviv
+2020-10-29,Qarabag,Villarreal
+2020-10-29,Antwerp,Tottenham
+2020-10-29,LASK,Ludogorets
+2020-10-29,Feyenoord,Wolfsberg
+2020-10-29,CSKA Moskva,Dinamo Zagreb
+2020-10-29,Crvena zvezda,Liberec
+2020-10-29,Gent,Hoffenheim
+2020-10-29,Roma,CSKA-Sofia
+2020-10-29,CFR Cluj,Young Boys
+2020-10-29,Arsenal,Dundalk
+2020-10-29,Molde,Rapid Wien
+2020-10-29,Slavia Praha,Leverkusen
+2020-10-29,Nice,H. Beer-Sheva
+2020-10-29,Benfica,Standard Liège
+2020-10-29,Rangers,Lech
+2020-10-29,Omonoia,PSV
+2020-10-29,Granada,PAOK
+2020-10-29,Real Sociedad,Napoli
+2020-10-29,AZ Alkmaar,Rijeka
+2020-11-05,Roma,CFR Cluj
+2020-11-05,Rapid Wien,Dundalk
+2020-11-05,H. Beer-Sheva,Leverkusen
+2020-11-05,Slavia Praha,Nice
+2020-11-05,Lech,Standard Liège
+2020-11-05,Benfica,Rangers
+2020-11-05,PAOK,PSV
+2020-11-05,Omonoia,Granada
+2020-11-05,Rijeka,Napoli
+2020-11-05,Real Sociedad,AZ Alkmaar
+2020-11-05,Sivasspor,Qarabag
+2020-11-05,Ludogorets,Tottenham
+2020-11-05,Young Boys,CSKA-Sofia
+2020-11-05,Arsenal,Molde
+2020-11-05,Leicester,Braga
+2020-11-05,Zorya Luhansk,AEK
+2020-11-05,Celtic,Sparta Praha
+2020-11-05,Milan,LOSC
+2020-11-05,Villarreal,M. Tel-Aviv
+2020-11-05,Antwerp,LASK
+2020-11-05,Dinamo Zagreb,Wolfsberg
+2020-11-05,Feyenoord,CSKA Moskva
+2020-11-05,Hoffenheim,Liberec
+2020-11-05,Crvena zvezda,Gent
+2020-11-26,CSKA-Sofia,Young Boys
+2020-11-26,Molde,Arsenal
+2020-11-26,Braga,Leicester
+2020-11-26,AEK,Zorya Luhansk
+2020-11-26,Sparta Praha,Celtic
+2020-11-26,LOSC,Milan
+2020-11-26,M. Tel-Aviv,Villarreal
+2020-11-26,Qarabag,Sivasspor
+2020-11-26,LASK,Antwerp
+2020-11-26,Wolfsberg,Dinamo Zagreb
+2020-11-26,CSKA Moskva,Feyenoord
+2020-11-26,Liberec,Hoffenheim
+2020-11-26,Gent,Crvena zvezda
+2020-11-26,CFR Cluj,Roma
+2020-11-26,Dundalk,Rapid Wien
+2020-11-26,Leverkusen,H. Beer-Sheva
+2020-11-26,Nice,Slavia Praha
+2020-11-26,Standard Liège,Lech
+2020-11-26,Rangers,Benfica
+2020-11-26,PSV,PAOK
+2020-11-26,Granada,Omonoia
+2020-11-26,Napoli,Rijeka
+2020-11-26,AZ Alkmaar,Real Sociedad
+2020-11-26,Tottenham,Ludogorets
+2020-12-03,AEK,Braga
+2020-12-03,Zorya Luhansk,Leicester
+2020-12-03,LOSC,Sparta Praha
+2020-12-03,Milan,Celtic
+2020-12-03,Qarabag,M. Tel-Aviv
+2020-12-03,Sivasspor,Villarreal
+2020-12-03,LASK,Tottenham
+2020-12-03,Antwerp,Ludogorets
+2020-12-03,CSKA Moskva,Wolfsberg
+2020-12-03,Feyenoord,Dinamo Zagreb
+2020-12-03,Gent,Liberec
+2020-12-03,Crvena zvezda,Hoffenheim
+2020-12-03,CFR Cluj,CSKA-Sofia
+2020-12-03,Roma,Young Boys
+2020-12-03,Molde,Dundalk
+2020-12-03,Arsenal,Rapid Wien
+2020-12-03,Nice,Leverkusen
+2020-12-03,Slavia Praha,H. Beer-Sheva
+2020-12-03,Rangers,Standard Liège
+2020-12-03,Benfica,Lech
+2020-12-03,Granada,PSV
+2020-12-03,Omonoia,PAOK
+2020-12-03,AZ Alkmaar,Napoli
+2020-12-03,Real Sociedad,Rijeka
+2020-12-10,CSKA-Sofia,Roma
+2020-12-10,Young Boys,CFR Cluj
+2020-12-10,Dundalk,Arsenal
+2020-12-10,Rapid Wien,Molde
+2020-12-10,Leverkusen,Slavia Praha
+2020-12-10,H. Beer-Sheva,Nice
+2020-12-10,Standard Liège,Benfica
+2020-12-10,Lech,Rangers
+2020-12-10,PSV,Omonoia
+2020-12-10,PAOK,Granada
+2020-12-10,Napoli,Real Sociedad
+2020-12-10,Rijeka,AZ Alkmaar
+2020-12-10,Braga,Zorya Luhansk
+2020-12-10,Leicester,AEK
+2020-12-10,Sparta Praha,Milan
+2020-12-10,Celtic,LOSC
+2020-12-10,M. Tel-Aviv,Sivasspor
+2020-12-10,Villarreal,Qarabag
+2020-12-10,Tottenham,Antwerp
+2020-12-10,Ludogorets,LASK
+2020-12-10,Wolfsberg,Feyenoord
+2020-12-10,Dinamo Zagreb,CSKA Moskva
+2020-12-10,Liberec,Crvena zvezda
+2020-12-10,Hoffenheim,Gent
+2021-02-18,Dynamo Kyiv,Club Brugge
+2021-02-18,Olympiacos,PSV
+2021-02-18,Young Boys,Leverkusen
+2021-02-18,Krasnodar,Dinamo Zagreb
+2021-02-18,Braga,Roma
+2021-02-18,Slavia Praha,Leicester
+2021-02-18,Crvena zvezda,Milan
+2021-02-18,Real Sociedad,Man. United
+2021-02-18,Wolfsberg,Tottenham
+2021-02-18,LOSC,Ajax
+2021-02-18,M. Tel-Aviv,Shakhtar Donetsk
+2021-02-18,Granada,Napoli
+2021-02-18,Molde,Hoffenheim
+2021-02-18,Salzburg,Villarreal
+2021-02-18,Antwerp,Rangers
+2021-02-18,Benfica,Arsenal
+2021-02-24,Tottenham,Wolfsberg
+2021-02-25,Ajax,LOSC
+2021-02-25,Shakhtar Donetsk,M. Tel-Aviv
+2021-02-25,Napoli,Granada
+2021-02-25,Hoffenheim,Molde
+2021-02-25,Villarreal,Salzburg
+2021-02-25,Rangers,Antwerp
+2021-02-25,Arsenal,Benfica
+2021-02-25,PSV,Olympiacos
+2021-02-25,Leverkusen,Young Boys
+2021-02-25,Dinamo Zagreb,Krasnodar
+2021-02-25,Roma,Braga
+2021-02-25,Leicester,Slavia Praha
+2021-02-25,Milan,Crvena zvezda
+2021-02-25,Man. United,Real Sociedad
+2021-02-25,Club Brugge,Dynamo Kyiv
+2021-03-11,Slavia Praha,Rangers
+2021-03-11,Man. United,Milan
+2021-03-11,Dynamo Kyiv,Villarreal
+2021-03-11,Ajax,Young Boys
+2021-03-11,Granada,Molde
+2021-03-11,Tottenham,Dinamo Zagreb
+2021-03-11,Olympiacos,Arsenal
+2021-03-11,Roma,Shakhtar Donetsk
+2021-03-18,Molde,Granada
+2021-03-18,Dinamo Zagreb,Tottenham
+2021-03-18,Arsenal,Olympiacos
+2021-03-18,Shakhtar Donetsk,Roma
+2021-03-18,Rangers,Slavia Praha
+2021-03-18,Milan,Man. United
+2021-03-18,Villarreal,Dynamo Kyiv
+2021-03-18,Young Boys,Ajax
+2021-04-08,Dinamo Zagreb,Villarreal
+2021-04-08,Ajax,Roma
+2021-04-08,Arsenal,Slavia Praha
+2021-04-08,Granada,Man. United
+2021-04-15,Villarreal,Dinamo Zagreb
+2021-04-15,Roma,Ajax
+2021-04-15,Slavia Praha,Arsenal
+2021-04-15,Man. United,Granada
+2021-04-29,Villarreal,Arsenal
+2021-04-29,Man. United,Roma
+2021-05-06,Arsenal,Villarreal
+2021-05-06,Roma,Man. United
+2021-05-26,Villarreal,Man. United

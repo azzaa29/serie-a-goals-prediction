@@ -1,0 +1,154 @@
+date,home,away
+2024-10-02,Basaksehir,SK Rapid
+2024-10-02,Vitória SC,Celje
+2024-10-03,Molde,Larne
+2024-10-03,Legia Warszawa,Real Betis
+2024-10-03,Heidenheim,Olimpija
+2024-10-03,Omonoia,Víkingur R.
+2024-10-03,Astana,TSC
+2024-10-03,Cercle Brugge,St. Gallen
+2024-10-03,Dinamo-Minsk,Hearts
+2024-10-03,Noah,Mladá Boleslav
+2024-10-03,Chelsea,Gent
+2024-10-03,Copenhagen,Jagiellonia
+2024-10-03,Fiorentina,The New Saints
+2024-10-03,LASK,Djurgården
+2024-10-03,Shamrock Rovers,APOEL
+2024-10-03,Lugano,HJK
+2024-10-03,Petrocub,Pafos
+2024-10-03,Borac,Panathinaikos
+2024-10-24,Víkingur R.,Cercle Brugge
+2024-10-24,Gent,Molde
+2024-10-24,Djurgården,Vitória SC
+2024-10-24,APOEL,Borac
+2024-10-24,SK Rapid,Noah
+2024-10-24,Hearts,Omonoia
+2024-10-24,St. Gallen,Fiorentina
+2024-10-24,Panathinaikos,Chelsea
+2024-10-24,Jagiellonia,Petrocub
+2024-10-24,Celje,Basaksehir
+2024-10-24,Larne,Shamrock Rovers
+2024-10-24,Real Betis,Copenhagen
+2024-10-24,HJK,Dinamo-Minsk
+2024-10-24,Olimpija,LASK
+2024-10-24,The New Saints,Astana
+2024-10-24,Mladá Boleslav,Lugano
+2024-10-24,TSC,Legia Warszawa
+2024-10-24,Pafos,Heidenheim
+2024-11-07,Víkingur R.,Borac
+2024-11-07,Gent,Omonoia
+2024-11-07,Legia Warszawa,Dinamo-Minsk
+2024-11-07,HJK,Olimpija
+2024-11-07,Shamrock Rovers,The New Saints
+2024-11-07,Petrocub,SK Rapid
+2024-11-07,TSC,Lugano
+2024-11-07,Pafos,Astana
+2024-11-07,Chelsea,Noah
+2024-11-07,Copenhagen,Basaksehir
+2024-11-07,LASK,Cercle Brugge
+2024-11-07,Real Betis,Celje
+2024-11-07,Djurgården,Panathinaikos
+2024-11-07,APOEL,Fiorentina
+2024-11-07,Vitória SC,Mladá Boleslav
+2024-11-07,Hearts,Heidenheim
+2024-11-07,Jagiellonia,Molde
+2024-11-07,Larne,St. Gallen
+2024-11-27,Basaksehir,Petrocub
+2024-11-28,Astana,Vitória SC
+2024-11-28,Molde,APOEL
+2024-11-28,Heidenheim,Chelsea
+2024-11-28,Cercle Brugge,Hearts
+2024-11-28,The New Saints,Djurgården
+2024-11-28,St. Gallen,TSC
+2024-11-28,Panathinaikos,HJK
+2024-11-28,Borac,LASK
+2024-11-28,Celje,Jagiellonia
+2024-11-28,Dinamo-Minsk,Copenhagen
+2024-11-28,Noah,Víkingur R.
+2024-11-28,Fiorentina,Pafos
+2024-11-28,SK Rapid,Shamrock Rovers
+2024-11-28,Omonoia,Legia Warszawa
+2024-11-28,Olimpija,Larne
+2024-11-28,Lugano,Gent
+2024-11-28,Mladá Boleslav,Real Betis
+2024-12-12,Víkingur R.,Djurgården
+2024-12-12,Astana,Chelsea
+2024-12-12,Copenhagen,Hearts
+2024-12-12,Fiorentina,LASK
+2024-12-12,Basaksehir,Heidenheim
+2024-12-12,Legia Warszawa,Lugano
+2024-12-12,HJK,Molde
+2024-12-12,Olimpija,Cercle Brugge
+2024-12-12,Petrocub,Real Betis
+2024-12-12,Dinamo-Minsk,Larne
+2024-12-12,Noah,APOEL
+2024-12-12,Gent,TSC
+2024-12-12,Omonoia,SK Rapid
+2024-12-12,Shamrock Rovers,Borac
+2024-12-12,The New Saints,Panathinaikos
+2024-12-12,Mladá Boleslav,Jagiellonia
+2024-12-12,St. Gallen,Vitória SC
+2024-12-12,Pafos,Celje
+2024-12-19,Chelsea,Shamrock Rovers
+2024-12-19,LASK,Víkingur R.
+2024-12-19,Real Betis,HJK
+2024-12-19,Molde,Mladá Boleslav
+2024-12-19,Heidenheim,St. Gallen
+2024-12-19,Djurgården,Legia Warszawa
+2024-12-19,APOEL,Astana
+2024-12-19,SK Rapid,Copenhagen
+2024-12-19,Vitória SC,Fiorentina
+2024-12-19,Cercle Brugge,Basaksehir
+2024-12-19,Lugano,Pafos
+2024-12-19,Hearts,Petrocub
+2024-12-19,Panathinaikos,Dinamo-Minsk
+2024-12-19,TSC,Noah
+2024-12-19,Borac,Omonoia
+2024-12-19,Jagiellonia,Olimpija
+2024-12-19,Celje,The New Saints
+2024-12-19,Larne,Gent
+2025-02-13,TSC,Jagiellonia
+2025-02-13,Celje,APOEL
+2025-02-13,Víkingur R.,Panathinaikos
+2025-02-13,Molde,Shamrock Rovers
+2025-02-13,Gent,Real Betis
+2025-02-13,Borac,Olimpija
+2025-02-13,Omonoia,Pafos
+2025-02-13,Copenhagen,Heidenheim
+2025-02-20,Real Betis,Gent
+2025-02-20,Olimpija,Borac
+2025-02-20,Pafos,Omonoia
+2025-02-20,Heidenheim,Copenhagen
+2025-02-20,Jagiellonia,TSC
+2025-02-20,APOEL,Celje
+2025-02-20,Panathinaikos,Víkingur R.
+2025-02-20,Shamrock Rovers,Molde
+2025-03-06,Real Betis,Vitória SC
+2025-03-06,Panathinaikos,Fiorentina
+2025-03-06,Molde,Legia Warszawa
+2025-03-06,Copenhagen,Chelsea
+2025-03-06,Jagiellonia,Cercle Brugge
+2025-03-06,Celje,Lugano
+2025-03-06,Borac,SK Rapid
+2025-03-06,Pafos,Djurgården
+2025-03-13,Cercle Brugge,Jagiellonia
+2025-03-13,Lugano,Celje
+2025-03-13,SK Rapid,Borac
+2025-03-13,Djurgården,Pafos
+2025-03-13,Vitória SC,Real Betis
+2025-03-13,Fiorentina,Panathinaikos
+2025-03-13,Legia Warszawa,Molde
+2025-03-13,Chelsea,Copenhagen
+2025-04-10,Legia Warszawa,Chelsea
+2025-04-10,Real Betis,Jagiellonia
+2025-04-10,Celje,Fiorentina
+2025-04-10,Djurgården,SK Rapid
+2025-04-17,Jagiellonia,Real Betis
+2025-04-17,Fiorentina,Celje
+2025-04-17,SK Rapid,Djurgården
+2025-04-17,Chelsea,Legia Warszawa
+2025-05-01,Real Betis,Fiorentina
+2025-05-01,Djurgården,Chelsea
+2025-05-08,Fiorentina,Real Betis
+2025-05-08,Chelsea,Djurgården
+2025-05-28,Real Betis,Chelsea

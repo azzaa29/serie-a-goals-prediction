@@ -1,0 +1,142 @@
+date,home,away
+2022-09-08,Zürich,Arsenal
+2022-09-08,PSV,Bodø/Glimt
+2022-09-08,AEK Larnaca,Rennes
+2022-09-08,Fenerbahçe,Dynamo Kyiv
+2022-09-08,Ludogorets,Roma
+2022-09-08,HJK,Betis
+2022-09-08,Malmö,Braga
+2022-09-08,Union Berlin,Union SG
+2022-09-08,Lazio,Feyenoord
+2022-09-08,Sturm,Midtjylland
+2022-09-08,Man United,Real Sociedad
+2022-09-08,Omonoia,Sheriff
+2022-09-08,Nantes,Olympiacos
+2022-09-08,Freiburg,Qarabag
+2022-09-08,Crvena zvezda,Monaco
+2022-09-08,Ferencváros,Trabzonspor
+2022-09-15,Midtjylland,Lazio
+2022-09-15,Feyenoord,Sturm
+2022-09-15,Sheriff,Man United
+2022-09-15,Real Sociedad,Omonoia
+2022-09-15,Olympiacos,Freiburg
+2022-09-15,Qarabag,Nantes
+2022-09-15,Trabzonspor,Crvena zvezda
+2022-09-15,Monaco,Ferencváros
+2022-09-15,Bodø/Glimt,Zürich
+2022-09-15,Dynamo Kyiv,AEK Larnaca
+2022-09-15,Rennes,Fenerbahçe
+2022-09-15,Betis,Ludogorets
+2022-09-15,Roma,HJK
+2022-09-15,Union SG,Malmö
+2022-09-15,Braga,Union Berlin
+2022-10-20,Arsenal,PSV
+2022-10-06,Sturm,Lazio
+2022-10-06,Sheriff,Real Sociedad
+2022-10-06,Omonoia,Man United
+2022-10-06,Zürich,PSV
+2022-10-06,HJK,Ludogorets
+2022-10-06,Malmö,Union Berlin
+2022-10-06,Crvena zvezda,Ferencváros
+2022-10-06,Monaco,Trabzonspor
+2022-10-06,Midtjylland,Feyenoord
+2022-10-06,Arsenal,Bodø/Glimt
+2022-10-06,Rennes,Dynamo Kyiv
+2022-10-06,Fenerbahçe,AEK Larnaca
+2022-10-06,Roma,Betis
+2022-10-06,Braga,Union SG
+2022-10-06,Olympiacos,Qarabag
+2022-10-06,Freiburg,Nantes
+2022-10-13,Feyenoord,Midtjylland
+2022-10-13,Bodø/Glimt,Arsenal
+2022-10-13,Dynamo Kyiv,Rennes
+2022-10-13,AEK Larnaca,Fenerbahçe
+2022-10-13,Betis,Roma
+2022-10-13,Union SG,Braga
+2022-10-13,Nantes,Freiburg
+2022-10-13,Qarabag,Olympiacos
+2022-10-13,Lazio,Sturm
+2022-10-13,Man United,Omonoia
+2022-10-13,Real Sociedad,Sheriff
+2022-10-13,PSV,Zürich
+2022-10-13,Ludogorets,HJK
+2022-10-13,Union Berlin,Malmö
+2022-10-13,Trabzonspor,Monaco
+2022-10-13,Ferencváros,Crvena zvezda
+2022-10-27,Lazio,Midtjylland
+2022-10-27,Zürich,Bodø/Glimt
+2022-10-27,PSV,Arsenal
+2022-10-27,Fenerbahçe,Rennes
+2022-10-27,AEK Larnaca,Dynamo Kyiv
+2022-10-27,Ludogorets,Betis
+2022-10-27,Malmö,Union SG
+2022-10-27,Union Berlin,Braga
+2022-10-27,Sturm,Feyenoord
+2022-10-27,Man United,Sheriff
+2022-10-27,Omonoia,Real Sociedad
+2022-10-27,HJK,Roma
+2022-10-27,Freiburg,Olympiacos
+2022-10-27,Nantes,Qarabag
+2022-10-27,Crvena zvezda,Trabzonspor
+2022-10-27,Ferencváros,Monaco
+2022-11-03,Midtjylland,Sturm
+2022-11-03,Feyenoord,Lazio
+2022-11-03,Real Sociedad,Man United
+2022-11-03,Sheriff,Omonoia
+2022-11-03,Qarabag,Freiburg
+2022-11-03,Olympiacos,Nantes
+2022-11-03,Trabzonspor,Ferencváros
+2022-11-03,Monaco,Crvena zvezda
+2022-11-03,Arsenal,Zürich
+2022-11-03,Bodø/Glimt,PSV
+2022-11-03,Dynamo Kyiv,Fenerbahçe
+2022-11-03,Rennes,AEK Larnaca
+2022-11-03,Roma,Ludogorets
+2022-11-03,Betis,HJK
+2022-11-03,Union SG,Union Berlin
+2022-11-03,Braga,Malmö
+2023-02-16,Barcelona,Man United
+2023-02-16,Shakhtar Donetsk,Rennes
+2023-02-16,Ajax,Union Berlin
+2023-02-16,Salzburg,Roma
+2023-02-16,Juventus,Nantes
+2023-02-16,Sporting CP,Midtjylland
+2023-02-16,Leverkusen,Monaco
+2023-02-16,Sevilla,PSV
+2023-02-23,Nantes,Juventus
+2023-02-23,Midtjylland,Sporting CP
+2023-02-23,Monaco,Leverkusen
+2023-02-23,PSV,Sevilla
+2023-02-23,Man United,Barcelona
+2023-02-23,Rennes,Shakhtar Donetsk
+2023-02-23,Union Berlin,Ajax
+2023-02-23,Roma,Salzburg
+2023-03-09,Union Berlin,Union SG
+2023-03-09,Leverkusen,Fenerbahçe
+2023-03-09,Sporting CP,Arsenal
+2023-03-09,Roma,Real Sociedad
+2023-03-09,Sevilla,Fenerbahçe
+2023-03-09,Juventus,Freiburg
+2023-03-09,Man United,Betis
+2023-03-09,Shakhtar Donetsk,Feyenoord
+2023-03-16,Fenerbahçe,Sevilla
+2023-03-16,Freiburg,Juventus
+2023-03-16,Betis,Man United
+2023-03-16,Feyenoord,Shakhtar Donetsk
+2023-03-16,Union SG,Union Berlin
+2023-03-16,Ferencváros,Leverkusen
+2023-03-16,Arsenal,Sporting CP
+2023-03-16,Real Sociedad,Roma
+2023-04-13,Feyenoord,Roma
+2023-04-13,Man United,Sevilla
+2023-04-13,Juventus,Sporting CP
+2023-04-13,Leverkusen,Union SG
+2023-04-20,Sevilla,Man United
+2023-04-20,Sporting CP,Juventus
+2023-04-20,Union SG,Leverkusen
+2023-04-20,Roma,Feyenoord
+2023-05-11,Juventus,Sevilla
+2023-05-11,Roma,Leverkusen
+2023-05-18,Sevilla,Juventus
+2023-05-18,Leverkusen,Roma
+2023-05-31,Sevilla,Roma

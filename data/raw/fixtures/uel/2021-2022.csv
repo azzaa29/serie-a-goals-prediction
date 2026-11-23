@@ -1,0 +1,142 @@
+date,home,away
+2021-09-15,Spartak Moskva,Legia
+2021-09-16,Galatasaray,Lazio
+2021-09-16,Lokomotiv Moskva,Marseille
+2021-09-16,Crvena zvezda,Braga
+2021-09-16,Midtjylland,Ludogorets
+2021-09-16,Betis,Celtic
+2021-09-16,Leverkusen,Ferencváros
+2021-09-16,Rapid Wien,Genk
+2021-09-16,Dinamo Zagreb,West Ham
+2021-09-16,Brøndby,Sparta Praha
+2021-09-16,Rangers,Lyon
+2021-09-16,Monaco,Sturm
+2021-09-16,PSV,Real Sociedad
+2021-09-16,Leicester,Napoli
+2021-09-16,Olympiacos,Antwerp
+2021-09-16,Frankfurt,Fenerbahçe
+2021-09-30,Sparta Praha,Rangers
+2021-09-30,Lyon,Brøndby
+2021-09-30,Sturm,PSV
+2021-09-30,Real Sociedad,Monaco
+2021-09-30,Legia,Leicester
+2021-09-30,Napoli,Spartak Moskva
+2021-09-30,Fenerbahçe,Olympiacos
+2021-09-30,Antwerp,Frankfurt
+2021-09-30,Marseille,Galatasaray
+2021-09-30,Lazio,Lokomotiv Moskva
+2021-09-30,Braga,Midtjylland
+2021-09-30,Ludogorets,Crvena zvezda
+2021-09-30,Ferencváros,Betis
+2021-09-30,Celtic,Leverkusen
+2021-09-30,West Ham,Rapid Wien
+2021-09-30,Genk,Dinamo Zagreb
+2021-10-19,Celtic,Ferencváros
+2021-10-20,Spartak Moskva,Leicester
+2021-10-21,Fenerbahçe,Antwerp
+2021-10-21,Lazio,Marseille
+2021-10-21,Midtjylland,Crvena zvezda
+2021-10-21,Ludogorets,Braga
+2021-10-21,Betis,Leverkusen
+2021-10-21,Rapid Wien,Dinamo Zagreb
+2021-10-21,Rangers,Brøndby
+2021-10-21,Sparta Praha,Lyon
+2021-10-21,PSV,Monaco
+2021-10-21,Sturm,Real Sociedad
+2021-10-21,Napoli,Legia
+2021-10-21,Frankfurt,Olympiacos
+2021-10-21,Lokomotiv Moskva,Galatasaray
+2021-10-21,West Ham,Genk
+2021-11-04,Brøndby,Rangers
+2021-11-04,Lyon,Sparta Praha
+2021-11-04,Real Sociedad,Sturm
+2021-11-04,Monaco,PSV
+2021-11-04,Legia,Napoli
+2021-11-04,Olympiacos,Frankfurt
+2021-11-04,Galatasaray,Lokomotiv Moskva
+2021-11-04,Genk,West Ham
+2021-11-04,Leicester,Spartak Moskva
+2021-11-04,Antwerp,Fenerbahçe
+2021-11-04,Marseille,Lazio
+2021-11-04,Crvena zvezda,Midtjylland
+2021-11-04,Braga,Ludogorets
+2021-11-04,Ferencváros,Celtic
+2021-11-04,Leverkusen,Betis
+2021-11-04,Dinamo Zagreb,Rapid Wien
+2021-11-24,Spartak Moskva,Napoli
+2021-11-25,Lokomotiv Moskva,Lazio
+2021-11-25,Galatasaray,Marseille
+2021-11-25,Crvena zvezda,Ludogorets
+2021-11-25,Midtjylland,Braga
+2021-11-25,Rapid Wien,West Ham
+2021-11-25,Dinamo Zagreb,Genk
+2021-11-25,Betis,Ferencváros
+2021-11-25,Leverkusen,Celtic
+2021-11-25,Brøndby,Lyon
+2021-11-25,Rangers,Sparta Praha
+2021-11-25,PSV,Sturm
+2021-11-25,Monaco,Real Sociedad
+2021-11-25,Leicester,Legia
+2021-11-25,Olympiacos,Fenerbahçe
+2021-11-25,Frankfurt,Antwerp
+2021-12-09,Sparta Praha,Brøndby
+2021-12-09,Lyon,Rangers
+2021-12-09,Sturm,Monaco
+2021-12-09,Real Sociedad,PSV
+2021-12-09,Napoli,Leicester
+2021-12-09,Legia,Spartak Moskva
+2021-12-09,Antwerp,Olympiacos
+2021-12-09,Fenerbahçe,Frankfurt
+2021-12-09,Marseille,Lokomotiv Moskva
+2021-12-09,Lazio,Galatasaray
+2021-12-09,Braga,Crvena zvezda
+2021-12-09,Ludogorets,Midtjylland
+2021-12-09,Ferencváros,Leverkusen
+2021-12-09,Celtic,Betis
+2021-12-09,West Ham,Dinamo Zagreb
+2021-12-09,Genk,Rapid Wien
+2022-02-17,Sheriff,Braga
+2022-02-17,Dortmund,Rangers
+2022-02-17,Zenit,Betis
+2022-02-17,Barcelona,Napoli
+2022-02-17,Porto,Lazio
+2022-02-17,Leipzig,Real Sociedad
+2022-02-17,Atalanta,Olympiacos
+2022-02-17,Sevilla,Dinamo Zagreb
+2022-02-24,Lazio,Porto
+2022-02-24,Real Sociedad,Leipzig
+2022-02-24,Olympiacos,Atalanta
+2022-02-24,Dinamo Zagreb,Sevilla
+2022-02-24,Braga,Sheriff
+2022-02-24,Rangers,Dortmund
+2022-02-24,Betis,Zenit
+2022-02-24,Napoli,Barcelona
+2022-03-09,Betis,Frankfurt
+2022-03-09,Porto,Lyon
+2022-03-10,Leipzig,Spartak Moskva
+2022-03-10,Sevilla,West Ham
+2022-03-10,Atalanta,Leverkusen
+2022-03-10,Barcelona,Galatasaray
+2022-03-10,Braga,Monaco
+2022-03-10,Rangers,Crvena zvezda
+2022-03-17,Crvena zvezda,Rangers
+2022-03-17,Galatasaray,Barcelona
+2022-03-17,Leverkusen,Atalanta
+2022-03-17,Monaco,Braga
+2022-03-17,Spartak Moskva,Leipzig
+2022-03-17,Frankfurt,Betis
+2022-03-17,Lyon,Porto
+2022-03-17,West Ham,Sevilla
+2022-04-07,Leipzig,Atalanta
+2022-04-07,Braga,Rangers
+2022-04-07,Frankfurt,Barcelona
+2022-04-07,West Ham,Lyon
+2022-04-14,Atalanta,Leipzig
+2022-04-14,Barcelona,Frankfurt
+2022-04-14,Lyon,West Ham
+2022-04-14,Rangers,Braga
+2022-04-28,Leipzig,Rangers
+2022-04-28,West Ham,Frankfurt
+2022-05-05,Rangers,Leipzig
+2022-05-05,Frankfurt,West Ham
+2022-05-18,Frankfurt,Rangers
